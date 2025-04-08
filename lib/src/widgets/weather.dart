@@ -156,7 +156,7 @@ class WeatherState extends State<Weather> {
           '${(day['all_day']['temperature_min'] as num).round()}°C';
       lowTemperatures.add(lowTemperature);
       int iconNum = day['all_day']['icon'];
-      weatherIcons.add(Image.asset('assets/images/weather_icons/${iconNum}.png',
+      weatherIcons.add(Image.asset('assets/images/weather_icons/$iconNum.png',
           width: 24, height: 24));
     }
 
