@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967602030648",
+    "project_id": "a03farming",
+    "storage_bucket": "a03farming.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967602030648:android:c7f8ed126a017d1fe87ecd",
+        "android_client_info": {
+          "package_name": "com.example.a03_farming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsSCZdSTCalDZifalD3IXhdLLjZGasWfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
